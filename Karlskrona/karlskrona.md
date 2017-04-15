@@ -1,3 +1,4 @@
+![](P5300013.JPG)
 # Karlskrona skærgård
 Dette er en lavvandet skærgård og øerne er ikke så høje. De fleste af øerne er ret bebyggede, men der er masser af skønne lejrpladser.
 
