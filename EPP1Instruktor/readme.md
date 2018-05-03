@@ -6,7 +6,7 @@ Der er noget materiale om [EPP 1 instuktør fra DKF](https://drive.google.com/fi
 DKF foreslår nogle forskellige moduler (se oversigt side 7).
 
 Modul | Emne
----+---
+---|---
 ​​1 | Pædagogiske redskaber herunder grupperhåndtering på vandet
 ​2 | Vandtilvænning, lege & aktiviteter 
 ​3 | Forevisningskvalitet, teknik & fokuspunkter
