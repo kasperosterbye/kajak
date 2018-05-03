@@ -5,14 +5,14 @@ Der er noget materiale om [EPP 1 instuktør fra DKF](https://drive.google.com/fi
 
 DKF foreslår nogle forskellige moduler (se oversigt side 7).
 
-Modul | Emne
----|---
-​​1 | Pædagogiske redskaber herunder grupperhåndtering på vandet
-​2 | Vandtilvænning, lege & aktiviteter 
-​3 | Forevisningskvalitet, teknik & fokuspunkter
-​4 | Vejr og vind - de fysiske rammer 
-​5 | Underafkøling, sikkerhed og sikkerhedsudstyr
-​6 | Evaluering af Instruktør 1ere
+| Modul | Emne |
+| ---: | :--- |
+​​1 | Pædagogiske redskaber herunder grupperhåndtering på vandet |
+2 | Vandtilvænning, lege & aktiviteter |
+3 | Forevisningskvalitet, teknik & fokuspunkter |
+​4 | Vejr og vind - de fysiske rammer |
+​5 | Underafkøling, sikkerhed og sikkerhedsudstyr |
+​6 | Evaluering af Instruktør 1ere |
 ​
 Det er smart at lægge os så tæt på DKF’s forslag som muligt fordi det vil gøre det nemmere at komme videre som instruktør 2.
 
